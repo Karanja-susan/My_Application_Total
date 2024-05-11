@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654928467283",
+    "project_id": "my-application-c73af",
+    "storage_bucket": "my-application-c73af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654928467283:android:70a1eaa929328216a67da6",
+        "android_client_info": {
+          "package_name": "com.susankaranja.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcr9wCfP4FJ5lldo2tI1NG6uld1PIu7rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
